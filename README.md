@@ -4,7 +4,9 @@ A bot for creating Reddit videos for your TikTok. The program will make a video 
 
 ### Example
 
-https://github.com/jakomacho/RedditVideoMakerForTikTok/assets/45905683/f63415fd-0fb3-4e65-9a6f-f589135c3a80
+https://github.com/jakomacho/RedditVideoMakerForTikTok/assets/45905683/2be18341-2792-42e7-bff1-3f885b79fe6c
+
+
 
 
 
