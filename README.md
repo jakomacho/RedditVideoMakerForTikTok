@@ -2,6 +2,12 @@
 
 A bot for creating Reddit videos for your TikTok. The program will make a video with a voiceover, background music, background video and comments screenshots automatically. Videos are ready to post on your TikTok profile.
 
+### Example
+
+https://github.com/jakomacho/RedditVideoMakerForTikTok/assets/45905683/f63415fd-0fb3-4e65-9a6f-f589135c3a80
+
+
+
 ## Instructions
 
 &rarr; Add a background video named `mcbg.mp4` to the `files` folder.
