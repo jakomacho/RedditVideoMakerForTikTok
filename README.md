@@ -4,7 +4,7 @@ A bot for creating Reddit videos for your TikTok. The program will make a video 
 
 ## Instructions
 
-&rarr; You have to add a background video named `mcbg.mp4` to the `files` folder.
+&rarr; Add a background video named `mcbg.mp4` to the `files` folder.
 
 1. Clone this repository
 2. Run `pip install -r requirements.txt`
